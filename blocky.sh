@@ -25,7 +25,7 @@ DESCRIPTION='Colorfully blocky thingy'
 # 
 # For more information, please refer to <http://unlicense.org/>
 
-VERSION=0.0.0
+VERSION=0.1.0
 
 # blocky factor
 b=50
